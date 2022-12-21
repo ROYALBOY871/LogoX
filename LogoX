@@ -1,4 +1,3 @@
-
 @bot.on(events.NewMessage(pattern="^/start"))
 async def start(event):
          Reply = f"ᴛᴀᴅᴀ ! ɪ'ᴍ ʜᴇʀᴇ ꜰᴏʀ ʜᴇʟᴘɪɴɢ ʏᴏᴜ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴀᴡᴇꜱᴏᴍᴇ ᴄᴏᴍᴍᴀɴᴅ ꜰᴏʀ ᴍᴀᴋɪɴɢ ᴘʀᴏ ʟᴏɢᴏ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ🥀"
